@@ -1,7 +1,7 @@
 # LearnGit
 Local repo consist 3 tree.
 
-Working dir -(add)-> index -(commit)->head
+Working dir -(add)-> index -(commit)->head ->remote repo ->remote server
                      (stage)
 
 # Init
