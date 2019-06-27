@@ -29,3 +29,10 @@ Working dir -(add)-> index -(commit)->head ->remote repo ->remote server
 - git pull //go to master branch
 - git merge
 - git status
+
+
+
+
+##ERROR
+https://stackoverflow.com/questions/356323/cant-add-all-files-to-git-due-to-permissions
+1. Close VS first before add.
