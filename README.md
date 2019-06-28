@@ -33,6 +33,3 @@ Working dir -(add)-> index -(commit)->head ->remote repo ->remote server
 
 
 
-##ERROR
-https://stackoverflow.com/questions/356323/cant-add-all-files-to-git-due-to-permissions
-1. Close VS first before add.
