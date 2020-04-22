@@ -31,6 +31,8 @@ Working dir -(add)-> index -(commit)->head ->remote repo ->remote server
 - git add .
 - git commit -m"commit"
 - git push origin master
+- go to our fork project in github & create pull request
+- then owner of the project will merge if it ok
 
 
 ## Delete branch
