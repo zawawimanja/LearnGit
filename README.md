@@ -20,6 +20,15 @@ Working dir -(add)-> index -(commit)->head ->remote repo ->remote server
 - git commit -m  "branch"
 - git push origin branch
 
+## Contribute SomeoneProject
+
+- git clone
+- git status
+- git add .
+- git commit -m"commit"
+- git push origin master
+
+
 ## Delete branch
 
 - git checkout master
