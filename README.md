@@ -26,7 +26,7 @@ Working dir -(add)-> index -(commit)->head ->remote repo ->remote server
 
 ## Contribute SomeoneProject
 
-- git clone
+- git clone (kena fork dulu project pastu copy link url )
 - git status
 - git add .
 - git commit -m"commit"
