@@ -45,6 +45,9 @@ Working dir -(add)-> index -(commit)->head ->remote repo ->remote server
 - git merge
 - git status
 
+#DeleteLocalRepoGit
+- rm -rf .git
+
 
 
 
