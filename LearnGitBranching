@@ -1,0 +1,30 @@
+#Exercise1 Commit
+
+- git commit
+- git commit
+
+
+#Exercise2 Branch
+
+- git checkout -b branch
+- (same like above)
+- git branch bugFix
+- git checkout bugFix
+
+#Exercise3 Merge bugFix into master
+
+- git checkout -bugFix
+- git commit
+- git checkout master
+- git commit
+- git merge bugFix
+
+#Exercise 4 Rebase clone branch master into  bugFix 
+
+- git checkout -b bugFix
+-git commit
+-git checkout master
+-git commit
+-git checkout bugFix
+-git rebase master
+ 
